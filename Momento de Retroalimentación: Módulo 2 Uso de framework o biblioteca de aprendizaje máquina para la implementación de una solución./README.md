@@ -13,4 +13,6 @@ Para mi modelo decidí utilizar un modelo de regresión lineal, la regresión li
 
 Para mi dataset decidi cambiar del data set que utilize en la ultima entrega ya que los datos de esa no eran muy utilies para un problema de regresion. Utilize el dataset de <a href="https://archive.ics.uci.edu/dataset/1/abalone">abalone</a> el objectivo de este dataset es determinar la edad del abalone a traves del numero de anillos que tiene.
 
+Cambios implementados:
+
 
