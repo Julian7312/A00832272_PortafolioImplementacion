@@ -39,13 +39,15 @@ def graph(df,feature):
     model.fit(X_train, y_train)
 
     y_pred = model.predict(X_test)
-    
+
+    #test metrics
     mse = mean_squared_error(y_test, y_pred)
     r2 = r2_score(y_test, y_pred)
 
     print("Mean Squared Error:", mse)
     print("R-squared:", r2)
 
+    #graph results
     plt.scatter(X_test, y_test, color='black')
     plt.plot(X_test, y_pred, color='blue', linewidth=3)
     plt.title('Linear Regression')
