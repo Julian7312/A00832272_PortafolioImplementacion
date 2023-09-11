@@ -1,7 +1,7 @@
 # Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución. 
 
 
-En este directorio se puede encontrar él .py donde se implementó la regresión lineal utilizando scikit learn así como un reporte donde se analizan los resultados de dicha predicción y los datos que utilize en mi implementacion:
+En este directorio se puede encontrar él Jupyter Notebook donde se implementó la regresión lineal utilizando scikit learn así como un reporte donde se analizan los resultados de dicha predicción y los datos que utilize en mi implementacion:
 
 Archivos para revisar:
 * <a href="https://github.com/Julian7312/A00832272_PortafolioImplementacion/blob/main/Entregas%20finales/Uso%20de%20framework%20o%20biblioteca%20de%20aprendizaje%20m%C3%A1quina%20para%20la%20implementaci%C3%B3n%20de%20una%20soluci%C3%B3n./README.md">README.md</a>: Breve descripción de la estructura de mi entrega y de cada archivo que lo forma.
