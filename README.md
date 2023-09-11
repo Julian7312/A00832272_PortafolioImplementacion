@@ -41,5 +41,16 @@
 * <a href="https://github.com/Julian7312/A00832272_PortafolioImplementacion/blob/main/Entregas%20finales/Uso%20de%20framework%20o%20biblioteca%20de%20aprendizaje%20m%C3%A1quina%20para%20la%20implementaci%C3%B3n%20de%20una%20soluci%C3%B3n./Uso_de_framework_o_biblioteca_de_aprendizaje_m%C3%A1quina_para_la_implementaci%C3%B3n_de_una_soluci%C3%B3n.ipynb">REPORTE/SCRIPT</a>
 
 * <a href="https://github.com/Julian7312/A00832272_PortafolioImplementacion/blob/main/Entregas%20finales/Uso%20de%20framework%20o%20biblioteca%20de%20aprendizaje%20m%C3%A1quina%20para%20la%20implementaci%C3%B3n%20de%20una%20soluci%C3%B3n./abalone.zip">Datos</a>
-    
+
+### Módulo 1 Intervalos de Confianza
+* <a href="https://github.com/Julian7312/A00832272_PortafolioImplementacion/blob/main/Entregas%20finales/Estadistica/Intervalos_A00832272.pdf">Intervalos de Confianza<a>
+
+### Módulo 1 Pruebas de hipótesis
+* <a href="https://github.com/Julian7312/A00832272_PortafolioImplementacion/blob/main/Entregas%20finales/Estadistica/Pruebas%20de%20hip%C3%B3tesis_A00832272.pdf">Pruebas de hipótesis</a>
+
+### Módulo 1 Regresión Lineal
+* <a href="https://github.com/Julian7312/A00832272_PortafolioImplementacion/blob/main/Entregas%20finales/Estadistica/Regresi%C3%B3nlineal_A08832272-1.pdf">Regresión Lineal</a>
+
+### Módulo 1 El precio de los autos
+* <a href="https://github.com/Julian7312/A00832272_PortafolioImplementacion/blob/main/Entregas%20finales/Estadistica/El%20precio%20de%20los%20autos.ipynb">El precio de los autos</a>
     
