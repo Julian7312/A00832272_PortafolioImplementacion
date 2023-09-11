@@ -1,7 +1,7 @@
 # Implementación de una técnica de aprendizaje máquina sin el uso de un framework. 
 
 
-En este directorio se puede encontrar él .py donde se implementó la regresión lineal utilizando scikit learn así como un reporte donde se analizan los resultados de dicha predicción:
+En este directorio se puede encontrar él Jupyter Notebook donde se implementó la regresión lineal sin utilizar librerias así como un reporte donde se analizan los resultados de dicha predicción:
 
 Archivos para revisar:
 * <a href="https://github.com/Julian7312/A00832272_PortafolioImplementacion/blob/main/Entregas%20finales/Implementaci%C3%B3n%20de%20una%20t%C3%A9cnica%20de%20aprendizaje%20m%C3%A1quina%20sin%20el%20uso%20de%20un%20framework/README.md">README.md</a>: Breve descripción de la estructura de mi entrega y de cada archivo que lo forma.
