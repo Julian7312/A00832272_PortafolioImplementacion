@@ -17,3 +17,4 @@ Cambios implementados:
 * Agregue un reporte con los puntos pedidos en la rubrica
 * Junte mi reporte y mi script en un solo jupyter notebook
 * Incorpore metricas para mis datos de entrenamiento y de prueba
+* Agregue un README.md
